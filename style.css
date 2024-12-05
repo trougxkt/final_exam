@@ -1,0 +1,1087 @@
+.slide {
+    background-color: #ffffff99;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .slide .overlap-wrapper {
+    background-color: #ffffff99;
+    overflow: hidden;
+    width: 1920px;
+    height: 13099px;
+  }
+  
+  .slide .overlap {
+    position: relative;
+    width: 3589px;
+    height: 13099px;
+    left: -914px;
+  }
+  
+  .slide .rectangle {
+    position: absolute;
+    width: 1920px;
+    height: 4391px;
+    top: 579px;
+    left: 914px;
+    background-color: #7d1717;
+  }
+  
+  .slide .div {
+    position: absolute;
+    width: 1918px;
+    height: 2547px;
+    top: 9502px;
+    left: 914px;
+    background-color: #fff8cd;
+  }
+  
+  .slide .rectangle-2 {
+    position: absolute;
+    width: 1920px;
+    height: 4552px;
+    top: 4970px;
+    left: 914px;
+    background-color: #f1eee9;
+  }
+  
+  .slide .group {
+    position: absolute;
+    width: 1920px;
+    height: 1001px;
+    top: 9321px;
+    left: 914px;
+  }
+  
+  .slide .garbage {
+    position: absolute;
+    width: 1920px;
+    height: 3425px;
+    top: 1181px;
+    left: 914px;
+  }
+  
+  .slide .union {
+    position: absolute;
+    width: 1920px;
+    height: 632px;
+    top: 4344px;
+    left: 914px;
+  }
+  
+  .slide .flame {
+    position: absolute;
+    width: 1217px;
+    height: 910px;
+    top: 3653px;
+    left: 1327px;
+  }
+  
+  .slide .img {
+    position: absolute;
+    width: 1920px;
+    height: 2792px;
+    top: 1214px;
+    left: 914px;
+  }
+  
+  .slide .conveyor {
+    position: absolute;
+    width: 920px;
+    height: 2663px;
+    top: 1678px;
+    left: 914px;
+  }
+  
+  .slide .conveyor-2 {
+    position: absolute;
+    width: 906px;
+    height: 2553px;
+    top: 1316px;
+    left: 914px;
+  }
+  
+  .slide .conveyor-3 {
+    position: absolute;
+    width: 835px;
+    height: 2507px;
+    top: 1325px;
+    left: 1999px;
+  }
+  
+  .slide .conveyor-4 {
+    position: absolute;
+    width: 745px;
+    height: 2664px;
+    top: 1517px;
+    left: 2089px;
+  }
+  
+  .slide .group-2 {
+    position: absolute;
+    width: 3589px;
+    height: 2877px;
+    top: 1213px;
+    left: 0;
+  }
+  
+  .slide .rectangle-3 {
+    position: absolute;
+    width: 20px;
+    height: 2554px;
+    top: 654px;
+    left: 943px;
+    background-color: #474747;
+    transform: rotate(-43.59deg);
+  }
+  
+  .slide .rectangle-4 {
+    position: absolute;
+    width: 20px;
+    height: 2694px;
+    top: 385px;
+    left: 907px;
+    background-color: #474747;
+    transform: rotate(-42.50deg);
+  }
+  
+  .slide .rectangle-5 {
+    position: absolute;
+    width: 20px;
+    height: 2554px;
+    top: 262px;
+    left: 1288px;
+    background-color: #474747;
+    transform: rotate(-21.60deg);
+  }
+  
+  .slide .overlap-group {
+    position: absolute;
+    width: 1581px;
+    height: 2877px;
+    top: 0;
+    left: 2008px;
+  }
+  
+  .slide .rectangle-6 {
+    position: absolute;
+    width: 20px;
+    height: 2554px;
+    top: 209px;
+    left: 456px;
+    background-color: #474747;
+    transform: rotate(-161.89deg);
+  }
+  
+  .slide .overlap-group-2 {
+    position: absolute;
+    width: 1519px;
+    height: 2394px;
+    top: 482px;
+    left: 61px;
+  }
+  
+  .slide .rectangle-7 {
+    position: absolute;
+    width: 20px;
+    height: 2554px;
+    top: 52px;
+    left: 731px;
+    background-color: #474747;
+    transform: rotate(-146.10deg);
+  }
+  
+  .slide .rectangle-8 {
+    position: absolute;
+    width: 20px;
+    height: 2694px;
+    top: -223px;
+    left: 750px;
+    background-color: #474747;
+    transform: rotate(-146.10deg);
+  }
+  
+  .slide .rectangle-9 {
+    position: absolute;
+    width: 20px;
+    height: 2694px;
+    top: -64px;
+    left: 418px;
+    background-color: #474747;
+    transform: rotate(-161.89deg);
+  }
+  
+  .slide .rectangle-10 {
+    position: absolute;
+    width: 20px;
+    height: 2554px;
+    top: 133px;
+    left: 1357px;
+    background-color: #474747;
+    transform: rotate(-21.60deg);
+  }
+  
+  .slide .garbage-2 {
+    position: absolute;
+    width: 1920px;
+    height: 2711px;
+    top: 1603px;
+    left: 914px;
+  }
+  
+  .slide .cliff {
+    position: absolute;
+    width: 1920px;
+    height: 3630px;
+    top: 0;
+    left: 914px;
+  }
+  
+  .slide .element {
+    top: 135px;
+    left: 1475px;
+    font-family: "Paperlogy-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 100px;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper {
+    font-family: "Paperlogy-Medium", Helvetica;
+    font-weight: 500;
+    color: #000000;
+    font-size: 100px;
+    letter-spacing: 0;
+  }
+  
+  .slide .span {
+    font-size: 128px;
+  }
+  
+  .slide .text-wrapper-2 {
+    font-size: 110px;
+  }
+  
+  .slide .text-wrapper-3 {
+    top: 108px;
+    left: 1853px;
+    font-family: "Inter-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 150px;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-4 {
+    top: 5343px;
+    left: 1446px;
+    font-family: "Chosun Centennial-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 128px;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-5 {
+    top: 5497px;
+    left: 2143px;
+    font-family: "Chosun Centennial-Regular", Helvetica;
+    font-weight: 400;
+    color: #7a7a7a;
+    font-size: 50px;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .raining-garbage {
+    position: absolute;
+    width: 1920px;
+    height: 699px;
+    top: 4635px;
+    left: 914px;
+  }
+  
+  .slide .overlap-group-wrapper {
+    position: absolute;
+    width: 983px;
+    height: 569px;
+    top: 5751px;
+    left: 1440px;
+  }
+  
+  .slide .overlap-2 {
+    position: relative;
+    width: 984px;
+    height: 574px;
+    top: -3px;
+    left: -2px;
+  }
+  
+  .slide .p {
+    width: 706px;
+    top: 130px;
+    left: 55px;
+    font-family: "SUIT-Bold", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    line-height: 42px;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-6 {
+    font-weight: 700;
+  }
+  
+  .slide .text-wrapper-7 {
+    font-family: "SUIT-ExtraLight", Helvetica;
+    font-weight: 200;
+  }
+  
+  .slide .text-wrapper-8 {
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  
+  .slide .text-wrapper-9 {
+    width: 819px;
+    top: 99px;
+    left: 55px;
+    font-family: "SUIT-Bold", Helvetica;
+    font-weight: 700;
+    color: #000000;
+    font-size: 36px;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .vector {
+    position: absolute;
+    width: 984px;
+    height: 574px;
+    top: 0;
+    left: 0;
+    background-blend-mode: hue;
+  }
+  
+  .slide .subtract {
+    position: absolute;
+    width: 1920px;
+    height: 4554px;
+    top: 4767px;
+    left: 914px;
+    background-blend-mode: multiply;
+    object-fit: cover;
+  }
+  
+  .slide .vector-2 {
+    position: absolute;
+    width: 567px;
+    height: 506px;
+    top: 6173px;
+    left: 2126px;
+    object-fit: cover;
+  }
+  
+  .slide .vector-3 {
+    position: absolute;
+    width: 907px;
+    height: 567px;
+    top: 8260px;
+    left: 1355px;
+    object-fit: cover;
+  }
+  
+  .slide .group-3 {
+    position: absolute;
+    width: 495px;
+    height: 293px;
+    top: 8273px;
+    left: 1898px;
+  }
+  
+  .slide .div-wrapper {
+    position: absolute;
+    width: 978px;
+    height: 559px;
+    top: 7480px;
+    left: 1625px;
+  }
+  
+  .slide .overlap-3 {
+    position: relative;
+    width: 981px;
+    height: 564px;
+    top: -3px;
+    left: -3px;
+  }
+  
+  .slide .element-EU {
+    position: absolute;
+    width: 622px;
+    height: 475px;
+    top: 57px;
+    left: 267px;
+    font-family: "SUIT-ExtraLight", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 28px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 42px;
+  }
+  
+  .slide .text-wrapper-10 {
+    font-weight: 200;
+  }
+  
+  .slide .text-wrapper-11 {
+    font-family: "SUIT-Bold", Helvetica;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 51px;
+  }
+  
+  .slide .text-wrapper-12 {
+    font-family: "SUIT-Bold", Helvetica;
+    font-weight: 700;
+    text-decoration: underline;
+  }
+  
+  .slide .vector-4 {
+    position: absolute;
+    width: 981px;
+    height: 564px;
+    top: 0;
+    left: 0;
+    background-blend-mode: hue;
+  }
+  
+  .slide .group-4 {
+    position: absolute;
+    width: 960px;
+    height: 640px;
+    top: 6635px;
+    left: 1195px;
+  }
+  
+  .slide .news-p-wrapper {
+    position: relative;
+    width: 979px;
+    height: 659px;
+    top: -10px;
+    left: -10px;
+    background-image: url(./img/vector-21.svg);
+    background-size: 100% 100%;
+  }
+  
+  .slide .news-p {
+    position: absolute;
+    width: 536px;
+    height: 536px;
+    top: 61px;
+    left: 158px;
+    object-fit: cover;
+  }
+  
+  .slide .vector-5 {
+    position: absolute;
+    width: 53px;
+    height: 191px;
+    top: 6385px;
+    left: 1599px;
+  }
+  
+  .slide .vector-6 {
+    position: absolute;
+    width: 133px;
+    height: 147px;
+    top: 7295px;
+    left: 2045px;
+  }
+  
+  .slide .vector-7 {
+    position: absolute;
+    width: 791px;
+    height: 1228px;
+    top: 8054px;
+    left: 1848px;
+  }
+  
+  .slide .f-fba-c {
+    position: absolute;
+    width: 748px;
+    height: 595px;
+    top: 8985px;
+    left: 2086px;
+    object-fit: cover;
+  }
+  
+  .slide .rectangle-11 {
+    position: absolute;
+    width: 786px;
+    height: 539px;
+    top: 9068px;
+    left: 914px;
+    object-fit: cover;
+  }
+  
+  .slide .text-wrapper-13 {
+    width: 59px;
+    height: 647px;
+    top: 9447px;
+    left: 1871px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ff0000;
+    font-size: 96px;
+    text-align: right;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .rectangle-12 {
+    position: absolute;
+    width: 813px;
+    height: 502px;
+    top: 10228px;
+    left: 1490px;
+    background-color: #000000;
+  }
+  
+  .slide .text-wrapper-14 {
+    height: 38px;
+    top: 10223px;
+    left: 2045px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #d5d5d5;
+    font-size: 32px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-15 {
+    height: 47px;
+    top: 10297px;
+    left: 1705px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-16 {
+    height: 42px;
+    top: 10344px;
+    left: 1849px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-17 {
+    height: 47px;
+    top: 10435px;
+    left: 1763px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-18 {
+    height: 42px;
+    top: 10481px;
+    left: 1855px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-19 {
+    height: 47px;
+    top: 10580px;
+    left: 1762px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 40px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-20 {
+    height: 42px;
+    top: 10629px;
+    left: 1855px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 36px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .chart {
+    position: absolute;
+    width: 1709px;
+    height: 797px;
+    top: 10462px;
+    left: 1048px;
+  }
+  
+  .slide .recycle-svgrepo-com {
+    position: absolute;
+    width: 169px;
+    height: 169px;
+    top: 10250px;
+    left: 2503px;
+  }
+  
+  .slide .text-wrapper-21 {
+    height: 35px;
+    top: 10441px;
+    left: 2519px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-22 {
+    height: 30px;
+    top: 10476px;
+    left: 2522px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .group-5 {
+    position: absolute;
+    width: 1627px;
+    height: 551px;
+    top: 11037px;
+    left: 1080px;
+  }
+  
+  .slide .text-wrapper-23 {
+    height: 35px;
+    top: 430px;
+    left: 8px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-24 {
+    height: 70px;
+    top: 448px;
+    left: 736px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-25 {
+    height: 35px;
+    top: 447px;
+    left: 1086px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .sea-and-sun-svgrepo {
+    position: absolute;
+    width: 192px;
+    height: 192px;
+    top: 203px;
+    left: 0;
+  }
+  
+  .slide .factory-svgrepo-com {
+    position: absolute;
+    width: 181px;
+    height: 181px;
+    top: 237px;
+    left: 748px;
+  }
+  
+  .slide .overlap-4 {
+    position: absolute;
+    width: 314px;
+    height: 234px;
+    top: 273px;
+    left: 307px;
+  }
+  
+  .slide .overlap-5 {
+    position: absolute;
+    width: 231px;
+    height: 234px;
+    top: 0;
+    left: 0;
+  }
+  
+  .slide .construction-dump {
+    position: absolute;
+    width: 190px;
+    height: 190px;
+    top: 0;
+    left: 0;
+  }
+  
+  .slide .text-wrapper-26 {
+    height: 30px;
+    top: 204px;
+    left: 109px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-27 {
+    height: 35px;
+    top: 176px;
+    left: 145px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: right;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .overlap-6 {
+    position: absolute;
+    width: 124px;
+    height: 86px;
+    top: 67px;
+    left: 190px;
+  }
+  
+  .slide .recycled-plastic-bag {
+    position: absolute;
+    width: 86px;
+    height: 86px;
+    top: 0;
+    left: 0;
+  }
+  
+  .slide .trash-svgrepo-com {
+    position: absolute;
+    width: 57px;
+    height: 57px;
+    top: 14px;
+    left: 67px;
+  }
+  
+  .slide .recycle-svgrepo-com-2 {
+    position: absolute;
+    width: 145px;
+    height: 145px;
+    top: 291px;
+    left: 1115px;
+  }
+  
+  .slide .overlap-7 {
+    position: absolute;
+    width: 118px;
+    height: 83px;
+    top: 0;
+    left: 1485px;
+  }
+  
+  .slide .bottle-of-water {
+    position: absolute;
+    width: 83px;
+    height: 83px;
+    top: 0;
+    left: 35px;
+  }
+  
+  .slide .bottle-svgrepo-com {
+    position: absolute;
+    width: 61px;
+    height: 61px;
+    top: 22px;
+    left: 0;
+  }
+  
+  .slide .text-wrapper-28 {
+    height: 35px;
+    top: 96px;
+    left: 1536px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 30px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-29 {
+    height: 30px;
+    top: 486px;
+    left: 1121px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-30 {
+    height: 30px;
+    top: 521px;
+    left: 772px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .text-wrapper-31 {
+    height: 30px;
+    top: 468px;
+    left: 48px;
+    font-family: "THEBignews-Regular", Helvetica;
+    font-weight: 400;
+    color: #000000;
+    font-size: 26px;
+    text-align: center;
+    line-height: normal;
+    white-space: nowrap;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .group-6 {
+    position: absolute;
+    width: 1922px;
+    height: 1140px;
+    top: 11959px;
+    left: 914px;
+  }
+  
+  .slide .overlap-8 {
+    position: relative;
+    width: 1920px;
+    height: 1140px;
+    background-color: #000000;
+  }
+  
+  .slide .subtract-2 {
+    position: absolute;
+    width: 719px;
+    height: 884px;
+    top: 128px;
+    left: 134px;
+    object-fit: cover;
+  }
+  
+  .slide .text-wrapper-32 {
+    width: 645px;
+    height: 649px;
+    top: 69px;
+    left: 1188px;
+    text-shadow: 0px 4px 4px #00000040;
+    -webkit-text-stroke: 1px #000000;
+    font-family: "godoRounded R-Regular", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 24px;
+    text-align: right;
+    line-height: normal;
+    position: absolute;
+    letter-spacing: 0;
+  }
+  
+  .slide .line {
+    position: absolute;
+    width: 1920px;
+    height: 157px;
+    top: 11801px;
+    left: 914px;
+  }
+  
+  .slide .line-2 {
+    position: absolute;
+    width: 804px;
+    height: 2px;
+    top: -2px;
+    left: 558px;
+  }
+  
+  .slide .line-3 {
+    position: absolute;
+    width: 990px;
+    height: 4px;
+    top: 11px;
+    left: 465px;
+  }
+  
+  .slide .line-4 {
+    position: absolute;
+    width: 1196px;
+    height: 5px;
+    top: 25px;
+    left: 362px;
+  }
+  
+  .slide .line-5 {
+    position: absolute;
+    width: 1336px;
+    height: 8px;
+    top: 37px;
+    left: 292px;
+  }
+  
+  .slide .line-6 {
+    position: absolute;
+    width: 1482px;
+    height: 11px;
+    top: 49px;
+    left: 219px;
+  }
+  
+  .slide .line-7 {
+    position: absolute;
+    width: 1634px;
+    height: 13px;
+    top: 65px;
+    left: 143px;
+  }
+  
+  .slide .line-8 {
+    position: absolute;
+    width: 1748px;
+    height: 19px;
+    top: 82px;
+    left: 86px;
+  }
+  
+  .slide .line-9 {
+    position: absolute;
+    width: 1856px;
+    height: 22px;
+    top: 105px;
+    left: 32px;
+  }
+  
+  .slide .line-10 {
+    position: absolute;
+    width: 1920px;
+    height: 28px;
+    top: 129px;
+    left: 0;
+  }
+  
+  .slide .question {
+    position: absolute;
+    width: 900px;
+    height: 900px;
+    top: 3618px;
+    left: 1524px;
+  }
+  
